@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.foto_meme{
+    border: 5px solid white;
+}
+
+.text{
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 24px;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
